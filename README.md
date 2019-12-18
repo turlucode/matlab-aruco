@@ -1,9 +1,7 @@
 # Introduction
 [![N|Solid](http://turlucode.com/wp-content/uploads/2017/10/turlucode_.png)](http://turlucode.com/)
 
-![A test image](https://turlucode.com/wp-content/uploads/2019/12/aruco-axis.png)
-
-Track [ArUco markers](https://docs.opencv.org/4.1.2/d9/d6d/tutorial_table_of_content_aruco.html) using MATLAB and OpenCV.
+Track [ArUco markers](https://docs.opencv.org/4.1.2/d9/d6d/tutorial_table_of_content_aruco.html) using MATLAB and OpenCV. ![A test image](https://turlucode.com/wp-content/uploads/2019/12/aruco-axis.png)
 
 To date, MATLAB is not providing any toolbox which can detect ArUco markers. The only way to have any support on ArUco markers, is via the [OpenCV C++ API](https://nl.mathworks.com/matlabcentral/fileexchange/47953-computer-vision-toolbox-opencv-interface).
 
